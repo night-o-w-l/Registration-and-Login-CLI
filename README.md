@@ -1,2 +1,5 @@
-# C-
-All program c+;
+use : 
+g++ _main_.cpp 
+then execute 
+./a.out 
+
